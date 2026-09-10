@@ -1,0 +1,28 @@
+# 1337Ops
+
+> Enterprise AI Automation, Cloud Architecture, and Security Solutions. Scale without increasing headcount.
+
+1337Ops delivers expert technology consultation, custom AI agent workflows (n8n, LangChain, LangGraph), cloud infrastructure (AWS/GCP, Terraform), VoIP, Starlink setup, cybersecurity penetration testing (CEH), web development, and project management. Founded by Payton Forristal-Garcia (AWS SAA, CEH, CSM).
+
+## Core Services
+
+- [IT Consultation](https://1337ops.tech/#services): Strategic technology roadmaps, vendor evaluation, and digital transformation.
+- [AI Agents & Automation](https://1337ops.tech/#services): Custom AI workflows, RAG pipelines, and autonomous agents using n8n, LangChain, and LangGraph.
+- [Network Design & Support](https://1337ops.tech/#services): Resilient LAN/WAN, SD-WAN, and secure hybrid cloud networking.
+- [VoIP Solutions](https://1337ops.tech/#services): Enterprise cloud PBX, SIP trunking, and unified communications (3CX, FreePBX, Teams).
+- [Website Design & Development](https://1337ops.tech/#services): Performant, accessible web apps and marketing sites (React, Next.js, Astro).
+- [CyberSecurity Engagements](https://1337ops.tech/#services): Red/Blue/Purple team penetration testing by CEH-certified professionals.
+- [Starlink Setup & Configuration](https://1337ops.tech/#services): End-to-end high-speed satellite internet deployment for remote locations.
+- [Project Management](https://1337ops.tech/#services): Agile/Scrum delivery, PMO governance, and technical leadership.
+- [Graphic Design](https://1337ops.tech/#services): Brand identity, UI/UX systems, and digital marketing assets.
+
+## Documentation & Legal
+
+- [Privacy Policy](https://1337ops.tech/privacy.html)
+- [Terms of Service](https://1337ops.tech/terms.html)
+- [Full LLM Context](https://1337ops.tech/llms-full.txt)
+
+## Contact
+
+- **Founder:** Payton Forristal-Garcia (payton@1337ops.tech)
+- **Website:** https://1337ops.tech

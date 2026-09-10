@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://1337ops.tech/sitemap.xml
+
+# LLM / AI Crawler Guidance (llmstxt.org)
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /

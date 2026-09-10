@@ -1,0 +1,67 @@
+# 1337Ops - Full Context & Knowledge Base
+
+> Enterprise AI Automation, Cloud Architecture, and Security Solutions. Scale without increasing headcount.
+
+## About 1337Ops
+1337Ops is an elite technology consulting and engineering firm founded by Payton Forristal-Garcia, an industry veteran holding certifications including AWS Certified Solutions Architect Associate (SAA), Certified Ethical Hacker (CEH), Certified Scrum Master (CSM), and Claude Certified Architect.
+
+With 15+ years of enterprise experience across financial services, telecommunications, and SaaS (Prudential Financial, Freddie Mac, SWIFT, M&T Bank, SP Plus), 1337Ops bridges the gap between complex enterprise engineering and startup speed.
+
+## Comprehensive Service Offerings
+
+### 1. IT Consultation & Strategy
+- Technology roadmap development and architecture reviews.
+- Digital transformation, cloud migration strategy, and technical governance.
+- Vendor evaluation, contract negotiation, and software selection.
+
+### 2. AI Agents & Workflow Automation
+- Custom AI agent development utilizing LangChain, LangGraph, and n8n.
+- Retrieval-Augmented Generation (RAG) knowledge bases and document processing pipelines.
+- Intelligent automation to eliminate operational bottlenecks without increasing headcount.
+
+### 3. Network Design, Implementation & Support
+- LAN/WAN enterprise architecture, VLAN segmentation, and SD-WAN deployment.
+- Wireless site surveys and high-density Wi-Fi 6/7 rollouts.
+- 24/7 network monitoring, incident response, and proactive maintenance.
+
+### 4. VoIP & Unified Communications
+- Enterprise cloud PBX deployment (3CX, FreePBX, Microsoft Teams).
+- SIP trunking, carrier management, and global number porting.
+- Advanced IVR, auto-attendants, call queuing, and secure recording.
+
+### 5. Website Design, Implementation & Support
+- Modern, performant, and fully accessible web applications and landing pages.
+- Headless CMS integration, e-commerce, and high-conversion UI/UX design.
+- Core Web Vitals optimization and ongoing maintenance SLAs.
+
+### 6. CyberSecurity Engagements (CEH Certified)
+- Red Team: Adversary simulation, penetration testing, and web app vulnerability assessment.
+- Blue Team: SOC optimization, SIEM/EDR engineering, and threat hunting.
+- Purple Team: Collaborative exercises combining attack simulation and detection engineering.
+
+### 7. Starlink Setup & Configuration
+- Site survey, obstruction analysis, and professional mounting (roof, pole, ground).
+- Enterprise router, mesh Wi-Fi, and multi-WAN failover/load balancing configuration.
+- Business static IP routing, secure VPN integration, and remote site monitoring.
+
+### 8. Agile Project Management
+- Scrum and Kanban delivery for complex infrastructure and software initiatives.
+- Risk management (RAID logs), sprint planning, and resource capacity modeling.
+- Executive stakeholder reporting and program management governance.
+
+### 9. Graphic Design & Brand Identity
+- Logo design, wordmarks, and comprehensive brand guideline systems.
+- Marketing collateral, pitch decks, signage, and trade show assets.
+- Digital design systems, UI component libraries, and motion graphics.
+
+## Founder & Credentials
+- **Name:** Payton Forristal-Garcia
+- **Email:** payton@1337ops.tech
+- **LinkedIn:** https://linkedin.com/in/paytonfg
+- **GitHub:** https://github.com/f3rr4r1
+- **Credentials:**
+  - AWS Certified Solutions Architect Associate (SAA)
+  - Certified Ethical Hacker (CEH)
+  - Certified Scrum Master (CSM)
+  - Professional Scrum Master I (PSM I)
+  - Claude Certified Architect

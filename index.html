@@ -16,6 +16,7 @@
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="apple-touch-icon" href="logo-medium.png">
+    <link rel="help" type="text/markdown" href="llms.txt">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -470,7 +471,10 @@
                     </div>
                     <div class="about-grid">
                         <div class="about-image-wrapper">
-                            <img src="pay.png" alt="Payton Forristal-Garcia, Founder of 1337Ops" class="about-image">
+                            <picture>
+                                <source srcset="pay.webp" type="image/webp">
+                                <img src="pay.png" alt="Payton Forristal-Garcia, Founder of 1337Ops" class="about-image" loading="lazy" width="968" height="1525">
+                            </picture>
                         </div>
                         <div class="about-content">
                             <h3 class="about-name">Payton Forristal-Garcia</h3>
@@ -486,7 +490,7 @@
                                 <span class="cred-badge">Professional Scrum Master I</span>
                                 <span class="cred-badge">Claude Certified Architect</span>
                             </div>
-                            <a href="https://github.com/1337ops" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-lg">
+                            <a href="https://github.com/f3rr4r1" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-lg">
                                 View Technical Profile
                                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
                                     <path d="M5 12h14"></path>
@@ -581,7 +585,11 @@
                     <img src="logo-medium.png" alt="" class="footer-logo" aria-hidden="true">
                     <span>1337Ops</span>
                 </div>
-                <p class="copyright">© 2026 1337Ops. All rights reserved.</p>
+                <p class="copyright" style="margin-bottom: var(--space-2);">© 2026 1337Ops. All rights reserved.</p>
+                <div style="text-align: center; font-size: var(--text-sm);">
+                    <a href="privacy.html" style="color: var(--foreground-muted); margin-right: var(--space-4); text-decoration: none;">Privacy Policy</a>
+                    <a href="terms.html" style="color: var(--foreground-muted); text-decoration: none;">Terms of Service</a>
+                </div>
             </div>
         </footer>
     </div>
